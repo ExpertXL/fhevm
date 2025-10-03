@@ -8,3 +8,4 @@ Added a simple example Python script: example.py.
 README updated with development notes.
 utils.py file added: contains helper functions.
 README updated: contributors section added.
+Project license file LICENSE added.
