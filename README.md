@@ -13,3 +13,4 @@ Project license file LICENSE added.
 Added main.py: entry point for the ZamaGpt application.
 Implemented basic chatbot functionality in main.py.
 Added requirements.txt with necessary Python packages.
+Added logging module for better debugging and monitoring.
