@@ -15,3 +15,4 @@ Implemented basic chatbot functionality in main.py.
 Added requirements.txt with necessary Python packages.
 Added logging module for better debugging and monitoring.
 Created data/ folder for storing datasets.
+Added sample dataset sample_data.json in data/.
