@@ -18,3 +18,4 @@ Created data/ folder for storing datasets.
 Added sample dataset sample_data.json in data/.
 Improved README.md: added setup instructions for developers.
 Refactored utils.py: functions optimized and documented.
+Added .gitignore to ignore __pycache__ and logs.
