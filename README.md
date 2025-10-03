@@ -11,3 +11,4 @@ README updated: contributors section added.
 Project license file LICENSE added.
 
 Added main.py: entry point for the ZamaGpt application.
+Implemented basic chatbot functionality in main.py.
